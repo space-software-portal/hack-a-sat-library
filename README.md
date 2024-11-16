@@ -94,6 +94,7 @@ We are bringing a series of interactive workshops to DEF CON in complete Safemod
 - **How To:** DIY Communications and Control for Amateur Space : Talking and Listening to Your Satellite by Sandy Antunes (https://www.worldcat.org/title/diy-comms-and-control-for-amateur-space-talking-and-listening-to-your-satellite/oclc/910553792)
 - **How To:** Surviving Orbit The DIY way : Testing the Limits Your Satellite Can and Must Match (https://www.worldcat.org/title/surviving-orbit-the-diy-way-testing-the-limits-your-satellite-can-and-must-match/oclc/826866872)
 - **How To:** Space Mission Engineering: The New SMAD (http://www.sme-smad.com/)
+- **How To:** Advanced Penetration Testing: Hacking Satellite Communication
 - **Types of Risks and Attacks:** MITIGATING CYBER SECURITY RISK IN SATELLITE GROUND SYSTEMS by Stephen F. Bichler, Maj, USAF (https://apps.dtic.mil/dtic/tr/fulltext/u2/1012754.pdf)
 - **Types of Risks and Attacks:** Attack Vectors in Orbit: The Need for IoT and Satellite Security by William J Malik, CISA (https://published-prd.lanyonevents.com/published/rsaus19/sessionsFiles/13692/MBS-W03-Attack-Vectors-in-Orbit-The-Need-for-IoT-and-Satellite-Security.pdf)
 - **Types of Risks and Attacks:** Cybersecurity Principles for Space Systems by Gregory Falco (https://2ea998fc-9f95-482a-87f8-dd57460966a8.filesusr.com/ugd/e741d3_daa22cd1e5234b8f9139fa9c7406be29.pdf)
